@@ -1,0 +1,5 @@
+= To build use the following commands
+
+$ source ~/.rvm/scripts/rvm
+$ bundle install
+$ bundle exec rake build

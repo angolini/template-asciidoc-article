@@ -1,0 +1,13 @@
+= Article Title
+:doctype: article
+:sectnums:
+:source-highlighter: coderay
+:toc:
+:toclevel: 5
+
+== Introduction
+
+include::first-section.adoc[]
+
+== Summary
+
