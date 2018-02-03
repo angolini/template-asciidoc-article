@@ -2,7 +2,7 @@
 :doctype: article
 :sectnums:
 :source-highlighter: coderay
-:toc:
+:toc: left
 :toclevel: 5
 
 == Introduction
